@@ -1,7 +1,10 @@
 ﻿body
 {
     font-family:"Segoe UI",Tahoma,sans-serif;
+    background-color: #ee7ddf;
 } 
-p{
+p {
     color: navy;
 }
+
+
