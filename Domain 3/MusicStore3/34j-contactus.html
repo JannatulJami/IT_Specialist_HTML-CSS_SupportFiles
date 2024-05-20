@@ -11,8 +11,10 @@
         We look forward to hearing from you!
     </p>
 
-    <!-- insert form here-->
+    <!-- insesrt form here-->
     <form action="thankyou.html" method="post" oninput="fn.value = firstname.value + ' ' + lastname.value">
+        <fieldset>
+            <legend>Personal</legend>
         <label for="firstname">First Name</label>
         <input type="text" name="firstname" id="firstname" />
         <br />
@@ -21,6 +23,9 @@
         <br />
         <label for="email">Email Address</label>
         <input type="email" name="email" id="email" />
+        </fieldset>
+        <fieldset>
+            <legend>Questions</legend>
         <p>How did you hear about us?</p>
         <select name="found" id="found">
             <option value="TV">TV</option>
@@ -36,6 +41,8 @@
             <option value = "piano">Piano</option>
             <option value = "drums">Drums</option>
             <option value= "bass">Bass</option>
+        </datalist>
+            </fieldset>
         <p>Add comments below</p>
         <textarea name="comments" rows="6" cols="50" maxlength="255"></textarea>
         <button name="showimage" onclick="">Show image</button>
