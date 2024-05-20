@@ -11,6 +11,7 @@ figcaption {
     color: navy;
     font-weight: bold;
    display: inline;
+    background-color: white;
 }
 .sale {
     font-weight: bold;
