@@ -46,12 +46,9 @@ li.dropDown{
 }
 .dropDown-content a:hover{
   background-color: blush;
+  color: white;
 }
 
 .dropDown:hover .dropDown-content{
   display:block;
-}
-.dropDown-content a:hover{
-  background-color: lavnderblush;
-  color:white;
 }
