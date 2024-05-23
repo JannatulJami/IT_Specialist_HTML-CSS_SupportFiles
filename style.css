@@ -3,13 +3,13 @@ body{
 }
 ul{
   list-style-type: none;
-  margin:0;
-  padding:0;
-  overflow:hidden;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
   background-color: #d8bfd8;
 }
 li{
-  float:left;
+  float: left;
 }
 
 li a, .dropBtn{
@@ -17,6 +17,7 @@ li a, .dropBtn{
   color: lavender;
   text-align: center;
   padding: 12px 14px;
+  text-decoration: none;
 }
 
 li a:hover, .dropDown:hover .dropBtn {
@@ -24,11 +25,11 @@ li a:hover, .dropDown:hover .dropBtn {
 }
 
 li.dropDown{
-  display:inline-block;
+  display: inline-block;
 }
 
 .dropDown-content{
-  display:none;
+  display: none;
   position: absolute;
   background-color: blush;
   min-width: 160px;
@@ -38,12 +39,13 @@ li.dropDown{
 
 .dropDown-content a{
   color:black;
+  padding: 12px 16px;
+  text-decoration: none;
   display:block;
   text-align: left;
 }
 .dropDown-content a:hover{
   background-color: blush;
-  color: salmon;
 }
 
 .dropDown:hover .dropDown-content{
