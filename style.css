@@ -1,6 +1,17 @@
 body{
   background-color:#FDD5DF;
 }
+.left {
+left: 14px;
+border: 6px;
+border-image: repeating-linear-gradient(45deg, #9a74a4, #f0cced, #ffadd9 30px) 60;
+height: 150px;
+width: 65px;
+}
+
+.right{
+
+}
 ul{
   list-style-type: none;
   margin: 0;
