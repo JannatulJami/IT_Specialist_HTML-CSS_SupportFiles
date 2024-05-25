@@ -18,7 +18,9 @@ color: white;
 left: 230px;
 width: 300px;
 height: 250px;
-overflow: scroll:
+overflow: scroll;
+border: 3px; 
+border-image: repeating-linear-gradient(90deg, #9a74a4, #f0cced, #ffd3da 30px) 20;
 color: white;
 }
 ul{
