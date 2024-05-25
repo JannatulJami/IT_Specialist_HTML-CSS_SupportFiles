@@ -15,6 +15,7 @@ background-color: blush;
 
 .right{
 left: 240px;
+position: absolute;
 width: 150px;
 height: 250px;
 background-color: llilac;
