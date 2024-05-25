@@ -14,6 +14,7 @@ background-color: blush;
 }
 
 .right{
+top: 70px;
 right: 140px;
 width: 300px;
 height: 250px;
