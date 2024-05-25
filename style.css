@@ -11,6 +11,7 @@ border-image: repeating-linear-gradient(45deg, #9a74a4, #f0cced, #ffadd9 30px) 6
 height: 150px;
 width: 200px;
 padding: 5px;
+position: absolute;
 overflow: scroll;
 font-family: Courier, monospace;
 background-color: blush;
@@ -18,7 +19,7 @@ background-color: blush;
 
 .right{
 left: 250px;
-position: relative;
+position: absolute;
 width: 150px;
 height: 250px;
 background-color: llilac;
