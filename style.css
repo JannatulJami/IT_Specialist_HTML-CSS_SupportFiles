@@ -14,11 +14,11 @@ background-color: #fff0f3;
 }
 
 .right{
-left: 240px;
+right: 140px;
 width: 300px;
 height: 250px;
 overflow: scroll;
-border: 3px; 
+border: 3px solid; 
 border-image: repeating-linear-gradient(90deg, #9a74a4, #f0cced, #ffd3da 30px) 20;
 color: white;
 }
