@@ -14,9 +14,8 @@ background-color: blush;
 }
 
 .right{
-top: 70px;
-right: 140px;
-width: 300px;
+left: 240px;
+width: 150px;
 height: 250px;
 background-color: lavender;
 overflow: scroll;
@@ -65,7 +64,7 @@ li.dropDown{
   padding: 12px 16px;
   text-decoration: none;
   display:block;
-  background-color: pink;
+  background-color: #FDD5DF;
   text-align: left;
 }
 .dropDown-content a:hover{
