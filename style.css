@@ -1,6 +1,9 @@
 body{
   background-color:#FDD5DF;
 }
+.container{
+  position: relative;
+}
 .left {
 left: 14px;
 border: 6px solid;
