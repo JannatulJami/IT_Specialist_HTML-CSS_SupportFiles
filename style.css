@@ -6,7 +6,7 @@ banner{
 border: 3px solid;
 border-image: repeating-linear-gradient(45deg, #9a74a4, #f0cced, #ffadd9 30px) 60;
 padding: 5px;
-color: white;
+color: lavender;
 font-family: 'Calligraffitti', cursive;
 text-shadow: 10px 10px 0px pink;
 background-color: lilac;
@@ -23,7 +23,7 @@ width: 200px;
 padding: 5px;
 position: absolute;
 background-color: lavenderblush;
- color: white; 
+ color: lavender; 
 overflow: scroll;
 font-family: Courier, monospace;
 text-shadow: 1px 1px 2px pink;
