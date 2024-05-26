@@ -30,7 +30,7 @@ height: 450px;
 background-color: #fd788b;
 overflow: scroll;
 border: 10px solid; 
-border-image: repeating-linear-gradient(90deg, #9a74a4, #f0cced, #ffd3da 30px) 20;
+border-image: repeating-linear-gradient(45deg, #9a74a4, #f0cced, #ffadd9 30px) 60;
 color: white;
 }
 ul{
