@@ -16,7 +16,7 @@ background-color: lilac;
 }
 .left {
 left: 14px;
-border: 10px solid;
+border: 15px solid;
 border-image: repeating-linear-gradient(45deg, #9a74a4, #f0cced, #ffadd9 30px) 60;
 height: 270px;
 width: 200px;
@@ -30,14 +30,14 @@ text-shadow: 1px 1px 2px pink;
 }
 
 .right{
-left: 260px;
+left: 290px;
 position: absolute;
 width: 650px;
 height: 450px;
 background-color: lavenderblush;
 padding: 5px;
 overflow: scroll;
-border: 10px solid; 
+border: 15px solid; 
 border-image: repeating-linear-gradient(45deg, #9a74a4, #f0cced, #ffadd9 30px) 60;
 color: white;
 text-shadow: 1px 1px 2px pink;
