@@ -2,7 +2,7 @@ body{
   background-color:#FDD5DF;
 }
 banner{
-border: 10px solid;
+border: 3px solid;
 border-image: repeating-linear-gradient(45deg, #9a74a4, #f0cced, #ffadd9 30px) 60;
 padding: 5px;
 color: white;
