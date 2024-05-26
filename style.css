@@ -16,10 +16,9 @@ width: 200px;
 padding: 5px;
 position: absolute;
 background-color: lavenderblush;
+ color: white; 
 overflow: scroll;
 font-family: Courier, monospace;
-text-shadow: 1px 1px 2px pink;
-background-color: blush;
 }
 
 .right{
@@ -33,6 +32,7 @@ overflow: scroll;
 border: 10px solid; 
 border-image: repeating-linear-gradient(45deg, #9a74a4, #f0cced, #ffadd9 30px) 60;
 color: white;
+text-shadow: 1px 1px 2px pink;
 }
 ul{
   list-style-type: none;
