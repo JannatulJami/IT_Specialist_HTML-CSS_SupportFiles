@@ -9,7 +9,7 @@ padding: 5px;
 color: lavender;
 font-family: 'Calligraffitti', cursive;
 text-shadow: 10px 10px 0px pink;
-background-color: lilac;
+background-color: lavenderblush;
 }
 .container{
   position: relative;
@@ -22,7 +22,7 @@ height: 270px;
 width: 200px;
 padding: 5px;
 position: absolute;
-background-color: lavenderblush;
+background-color: #f6cefc;
  color: lavender; 
 overflow: scroll;
 font-family: Courier, monospace;
@@ -40,7 +40,7 @@ overflow: scroll;
 border: 15px solid; 
 border-image: repeating-linear-gradient(45deg, #9a74a4, #f0cced, #ffadd9 30px) 60;
 color: white;
-text-shadow: 1px 1px 2px blush;
+text-shadow: 1px 1px 2px pink;
 }
 ul{
   list-style-type: none;
