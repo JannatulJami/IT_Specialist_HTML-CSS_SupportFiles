@@ -30,17 +30,17 @@ text-shadow: 1px 1px 2px pink;
 }
 
 .right{
-left: 290px;
+left: 320px;
 position: absolute;
 width: 650px;
-height: 450px;
-background-color: lavenderblush;
+height: 460px;
+background-color: lavender;
 padding: 5px;
 overflow: scroll;
 border: 15px solid; 
 border-image: repeating-linear-gradient(45deg, #9a74a4, #f0cced, #ffadd9 30px) 60;
 color: white;
-text-shadow: 1px 1px 2px pink;
+text-shadow: 1px 1px 2px blush;
 }
 ul{
   list-style-type: none;
