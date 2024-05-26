@@ -1,6 +1,9 @@
 body{
   background-color:#FDD5DF;
 }
+banner{
+
+}
 .container{
   position: relative;
 }
@@ -8,22 +11,23 @@ body{
 left: 14px;
 border: 10px solid;
 border-image: repeating-linear-gradient(45deg, #9a74a4, #f0cced, #ffadd9 30px) 60;
-height: 230px;
+height: 270px;
 width: 200px;
 padding: 5px;
 position: absolute;
-background-color: #e7d1ff;
+background-color: #fd788b;
 overflow: scroll;
 font-family: Courier, monospace;
+text-shadow: 1px 1px 2px pink;
 background-color: blush;
 }
 
 .right{
 left: 260px;
 position: absolute;
-width: 450px;
-height: 350px;
-background-color: #e7d1ff;
+width: 650px;
+height: 450px;
+background-color: #fd788b;
 overflow: scroll;
 border: 10px solid; 
 border-image: repeating-linear-gradient(90deg, #9a74a4, #f0cced, #ffd3da 30px) 20;
