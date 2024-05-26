@@ -33,7 +33,7 @@ text-shadow: 1px 1px 2px pink;
 .right{
 left: 320px;
 position: absolute;
-width: 650px;
+width: 50%;
 height: 460px;
 background-color: #FEE7FE;
 padding: 5px;
