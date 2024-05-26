@@ -2,7 +2,13 @@ body{
   background-color:#FDD5DF;
 }
 banner{
-
+border: 10px solid;
+border-image: repeating-linear-gradient(45deg, #9a74a4, #f0cced, #ffadd9 30px) 60;
+padding: 5px;
+color: white;
+font-family: brush-script mt, cursive;
+text-shadow: 10px 10px 0px pink;
+background-color: lilac;
 }
 .container{
   position: relative;
@@ -19,6 +25,7 @@ background-color: lavenderblush;
  color: white; 
 overflow: scroll;
 font-family: Courier, monospace;
+text-shadow: 1px 1px 2px pink;
 }
 
 .right{
