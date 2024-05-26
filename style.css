@@ -6,7 +6,7 @@ body{
 }
 .left {
 left: 14px;
-border: 6px solid;
+border: 10px solid;
 border-image: repeating-linear-gradient(45deg, #9a74a4, #f0cced, #ffadd9 30px) 60;
 height: 230px;
 width: 200px;
@@ -19,13 +19,13 @@ background-color: blush;
 }
 
 .right{
-left: 250px;
+left: 260px;
 position: absolute;
 width: 450px;
 height: 350px;
 background-color: lilac;
 overflow: scroll;
-border: 3px solid; 
+border: 10px solid; 
 border-image: repeating-linear-gradient(90deg, #9a74a4, #f0cced, #ffd3da 30px) 20;
 color: white;
 }
