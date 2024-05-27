@@ -21,11 +21,11 @@ background-color: lavenderblush;
 }
 .left {
 left: 14px;
-border: 15px solid;
+border: 20px solid;
 border-image: repeating-linear-gradient(45deg, #9a74a4, #f0cced, #ffadd9 30px) 60;
 height: 270px;
-width: 200px;
-padding: 5px;
+width: 210px;
+padding: 7px;
 position: absolute;
 background-color: #EACFF1;
 color: white; 
