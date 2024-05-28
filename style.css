@@ -11,6 +11,9 @@ font-family: 'Calligraffitti', cursive;
  text-shadow: 1px 1px 2px pink;
 background-color: lavenderblush;
 }
+.right > h3 {
+   text-shadow: 1px 1px 2px #FF0CA5;
+}
 .container{
   position: relative;
 }
